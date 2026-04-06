@@ -1,0 +1,5 @@
+{
+  "name": "EduFocus: Smart Classroom Attention Manager",
+  "description": "An AI-powered dashboard for monitoring student engagement and attention levels in real-time, providing actionable insights for educators.",
+  "requestFramePermissions": ["camera"]
+}
